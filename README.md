@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming (I love all things backend, devops, network & database (& I do frontend as well).
 - 🌱 I’m currently learning all things JavaScript/TypeScript
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me Jonathan23986@gmail.com
