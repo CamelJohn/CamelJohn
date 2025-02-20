@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in programming (I love all things backend, devops, network & database (& I do frontend as well)).
-- 🌱 I’m currently learning all things JavaScript/TypeScript, AWS, cloud in generat, terraform, cloudformation, k8s, docker.
+- 👀 I’m interested in programming - I've been shifting left for the past couple of years (most of my career).
+- 🌱 I’m currently focusing mainly on my devops learning path.
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me Jonathan23986@gmail.com
 
